@@ -24,11 +24,11 @@
         "url": "https://github.com/curtisblackwell/vs-code-laravel-goats"
     },
     "extensionPack": [
-        "mohamedbenhida.laravel-intellisense",
-        "freshbitsweb.laravel-traveller",
+        "ahdesign.language-antlers",
         "cjhowe7.laravel-blade",
+        "freshbitsweb.laravel-traveller",
         "mikestead.dotenv",
-        "stef-k.laravel-goto-controller",
-        "ahdesign.language-antlers"
+        "mohamedbenhida.laravel-intellisense",
+        "stef-k.laravel-goto-controller"
     ]
 }
