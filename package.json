@@ -26,6 +26,7 @@
     "extensionPack": [
         "adrianwilczynski.alpine-js-intellisense",
         "ahdesign.language-antlers",
+        "cierra.livewire-vscode",
         "cjhowe7.laravel-blade",
         "freshbitsweb.laravel-traveller",
         "mikestead.dotenv",
