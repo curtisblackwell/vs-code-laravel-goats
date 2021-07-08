@@ -24,6 +24,7 @@
         "url": "https://github.com/curtisblackwell/vs-code-laravel-goats"
     },
     "extensionPack": [
+        "adrianwilczynski.alpine-js-intellisense",
         "ahdesign.language-antlers",
         "cjhowe7.laravel-blade",
         "freshbitsweb.laravel-traveller",
